@@ -5,6 +5,9 @@ const int chipSelect = 5;
 File root;
 File selFile;
 
+
+// my first comment from my dad
+
 //Commands ------------------
   String comList[] = {
     "help", //0 - help
